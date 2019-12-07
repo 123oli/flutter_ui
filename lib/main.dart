@@ -1,5 +1,5 @@
-import 'package:ecommerce/src/userprofile/proflie_page3.dart';
 import 'package:flutter/material.dart';
+import 'src/ecommerceui/shoes.dart';
 
 void main() => runApp(MyApp());
 
@@ -39,7 +39,8 @@ class MyApp extends StatelessWidget {
       // home: FitnessHomePage(),
       // home: CarouselDemo(),
       // home: PizzaHomePage(),
-      home: ProfilePage3(),
+      // home: ProfilePage3(),
+      home: ShoesEcommerce(),
     );
   }
 }
