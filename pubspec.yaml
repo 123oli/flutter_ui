@@ -52,6 +52,7 @@ flutter:
   assets:
    - images/
    - images/food/
+   - images/resturantui/
    - images/catzone/
    - images/profile/
    - images/profile-pics/

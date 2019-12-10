@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/ecommerceui/shoes.dart';
+import 'src/resturantui/resturant.dart';
 
 void main() => runApp(MyApp());
 
@@ -40,7 +40,8 @@ class MyApp extends StatelessWidget {
       // home: CarouselDemo(),
       // home: PizzaHomePage(),
       // home: ProfilePage3(),
-      home: ShoesEcommerce(),
+      // home: ShoesEcommerce(),
+      home: ResturantAppUI(),
     );
   }
 }
