@@ -133,6 +133,7 @@ samples, guidance on mobile development, and a full API reference.
         <img src="/screenshots/pizza1.gif" width="250px",height="200px"</img> 
         <img src="/screenshots/pizza2.gif" width="250px",height="200px"</img> 
         <img src="/screenshots/shoes.png" width="250px",height="200px"</img> 
+        <img src="/screenshots/resturant.png" width="250px",height="200px"</img> 
     </td>
 </table>
 
